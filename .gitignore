@@ -7,3 +7,5 @@ __pycache__
 /build/
 .gradle
 .idea
+config.bat
+node_modules
