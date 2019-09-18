@@ -14,3 +14,5 @@ edge/edgecore
 edgesite/edgesite
 keadm/keadm
 _output
+config.bat
+node_modules
